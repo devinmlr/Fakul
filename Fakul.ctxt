@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Fakul
+comment1.params=
+comment1.target=Fakul()
+comment2.params=zahl
+comment2.target=int\ iterativ(int)
+comment3.params=zahl
+comment3.target=int\ rekursiv(int)
+numComments=4
